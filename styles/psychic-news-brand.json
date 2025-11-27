@@ -1,0 +1,66 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Psychic News Brand",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#FFFFFF",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#2B9EB3",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#E8F6F9",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#2B9EB34D",
+                "name": "Primary Light",
+                "slug": "primary-light"
+            },
+            {
+                "color": "#1A1A1A",
+                "name": "Footer Background",
+                "slug": "footer-background"
+            },
+            {
+                "color": "#0000000f",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#333333",
+                "name": "Text Color",
+                "slug": "text-color"
+            },
+            {
+                "color": "#1A1A1A",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color":"#2B9EB340",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color":"#00000020",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            }
+        ]
+    }
+  }
+}
