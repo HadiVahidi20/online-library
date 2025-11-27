@@ -1,0 +1,824 @@
+# Copyright (C) 2025 pewilliams
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Online Library 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/online-library\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-08T15:35:44+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: online-library\n"
+
+#. Theme Name of the theme
+#: style.css
+#: block-patterns.php:17
+msgid "Online Library"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/online-library"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Online Library Theme is a modern and versatile theme designed for bookshops, eBook stores, publishing houses, and digital libraries. Whether you’re managing a small collection of books or running a large-scale online library, this theme provides all the essential tools to showcase and organize your content effectively. Built with a clean and user-friendly design, the theme ensures easy navigation for visitors to explore categories, genres, and featured titles without hassle. It supports seamless integration with WooCommerce, allowing you to sell books, eBooks, or educational resources directly from your website. The responsive layout guarantees an optimal browsing experience across all devices, ensuring readers can access your library anytime, anywhere. Customization is simple with built-in options for colors, typography, and layouts, so you can create a unique online presence that matches your brand. Additionally, the theme is optimized for SEO, ensuring better visibility in search engines and attracting more readers. Perfect for authors, publishers, educators, and book enthusiasts, the Online Library Theme combines functionality with elegance, making it easier than ever to manage and present your collection professionally."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "Return Home"
+msgstr ""
+
+#: patterns/about-section.php
+msgctxt "Pattern title"
+msgid "About Section"
+msgstr ""
+
+#: patterns/about-section.php:11
+msgid "who we are"
+msgstr ""
+
+#: patterns/about-section.php:24
+msgid "15 +"
+msgstr ""
+
+#: patterns/about-section.php:28
+msgid "years of"
+msgstr ""
+
+#: patterns/about-section.php:28
+msgid "experience"
+msgstr ""
+
+#: patterns/about-section.php:36
+msgid "We are more than just a library — we are a community hub where knowledge, ideas, and inspiration come together. Our mission is to provide access to a diverse collection of books, digital resources, and learning opportunities for readers of all ages. With a welcoming space, expert guidance, and a passion for education, we strive to make reading and research accessible, engaging, and enriching for everyone."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:12
+msgid "Discover a World of Knowledge"
+msgstr ""
+
+#: patterns/banner.php:16
+msgid "Explore books, journals, and digital resources to inspire your mind and fuel your curiosity."
+msgstr ""
+
+#: patterns/banner.php:21
+msgid "browse collection"
+msgstr ""
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: patterns/collection-section.php
+msgctxt "Pattern title"
+msgid "Collection Section"
+msgstr ""
+
+#: patterns/collection-section.php:11
+msgid "discover our collection"
+msgstr ""
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:11
+msgid "got questions? we’ve got answers."
+msgstr ""
+
+#: patterns/faq-section.php:19
+msgid "1. How can I become a member of the library?"
+msgstr ""
+
+#: patterns/faq-section.php:20
+#: patterns/faq-section.php:26
+#: patterns/faq-section.php:32
+#: patterns/faq-section.php:38
+#: patterns/faq-section.php:48
+#: patterns/faq-section.php:54
+#: patterns/faq-section.php:60
+#: patterns/faq-section.php:66
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+msgstr ""
+
+#: patterns/faq-section.php:25
+msgid "2. What are the library’s opening hours?"
+msgstr ""
+
+#: patterns/faq-section.php:31
+msgid "3. How many books can I borrow at once?"
+msgstr ""
+
+#: patterns/faq-section.php:37
+msgid "4. What is the borrowing period for books and journals?"
+msgstr ""
+
+#: patterns/faq-section.php:47
+msgid "5. Does the library offer e-books and online resources?"
+msgstr ""
+
+#: patterns/faq-section.php:53
+msgid "6. How can I renew or reserve a book online?"
+msgstr ""
+
+#: patterns/faq-section.php:59
+msgid "7. Are there late fees for overdue books?"
+msgstr ""
+
+#: patterns/faq-section.php:65
+msgid "8. Does the library host events or reading programs?"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste."
+msgstr ""
+
+#: patterns/footer.php:21
+#: patterns/header.php:13
+msgid "+1234567890"
+msgstr ""
+
+#: patterns/footer.php:25
+#: patterns/header.php:19
+msgid "library@example.com"
+msgstr ""
+
+#: patterns/footer.php:29
+msgid "123 Knowledge Lane, Springfield, USA"
+msgstr ""
+
+#: patterns/footer.php:35
+msgid "quick links"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "home"
+msgstr ""
+
+#: patterns/footer.php:44
+#: patterns/header.php:38
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:48
+msgid "Catalog / Collection"
+msgstr ""
+
+#: patterns/footer.php:52
+#: patterns/header.php:42
+msgid "E-Resources"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "Events & Programs"
+msgstr ""
+
+#: patterns/footer.php:60
+#: patterns/header.php:44
+msgid "Membership"
+msgstr ""
+
+#: patterns/footer.php:64
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:71
+msgid "services"
+msgstr ""
+
+#: patterns/footer.php:76
+msgid "Book Lending"
+msgstr ""
+
+#: patterns/footer.php:80
+msgid "E-Book Access"
+msgstr ""
+
+#: patterns/footer.php:84
+msgid "Research Assistance"
+msgstr ""
+
+#: patterns/footer.php:88
+msgid "Reading Rooms"
+msgstr ""
+
+#: patterns/footer.php:92
+msgid "Printing & Photocopy"
+msgstr ""
+
+#: patterns/footer.php:96
+msgid "Community Events"
+msgstr ""
+
+#: patterns/footer.php:103
+msgid "resources"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "FAQ's"
+msgstr ""
+
+#: patterns/footer.php:112
+msgid "Research Guides"
+msgstr ""
+
+#: patterns/footer.php:116
+msgid "Library Policies"
+msgstr ""
+
+#: patterns/footer.php:120
+msgid "Membership Help"
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "Recommendations"
+msgstr ""
+
+#: patterns/footer.php:134
+msgid "Online Library Theme Proudly powered by "
+msgstr ""
+
+#: patterns/footer.php:134
+msgid "Ovation Themes "
+msgstr ""
+
+#: patterns/footer.php:134
+msgid " and "
+msgstr ""
+
+#: patterns/footer.php:134
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-image.php
+msgctxt "Pattern title"
+msgid "Header Image"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:25
+msgid "New Arrivals: Explore the latest books & journals now available in our collection!"
+msgstr ""
+
+#: patterns/header.php:36
+msgid "Home"
+msgstr ""
+
+#: patterns/header.php:40
+msgid "Catalog"
+msgstr ""
+
+#: patterns/index-header-image.php
+msgctxt "Pattern title"
+msgid "Index Header Image"
+msgstr ""
+
+#: patterns/index-header-image.php:11
+msgid "blog"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:11
+msgid "library resources"
+msgstr ""
+
+#: patterns/more-post.php
+msgctxt "Pattern title"
+msgid "More Post"
+msgstr ""
+
+#: patterns/more-post.php:11
+msgid "More Articles &amp; Posts"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/search-product.php
+msgctxt "Pattern title"
+msgid "Search Product"
+msgstr ""
+
+#: patterns/search-product.php:42
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/sidebar.php:38
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:58
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:68
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:46
+msgid "Related Products"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:12
+msgid "what our clients say"
+msgstr ""
+
+#: patterns/testimonial.php:23
+msgid "Ava Mitchell"
+msgstr ""
+
+#: patterns/testimonial.php:27
+#: patterns/testimonial.php:45
+#: patterns/testimonial.php:63
+#: patterns/testimonial.php:81
+#: patterns/testimonial.php:99
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error"
+msgstr ""
+
+#: patterns/testimonial.php:41
+msgid "Rahul Desai"
+msgstr ""
+
+#: patterns/testimonial.php:59
+msgid "Claire Benson"
+msgstr ""
+
+#: patterns/testimonial.php:77
+msgid "Liam Chen"
+msgstr ""
+
+#: patterns/testimonial.php:95
+msgid "Sophia James"
+msgstr ""
+
+#: styles/cosmic-blue.json
+msgctxt "Style variation name"
+msgid "Cosmic Blue"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Footer Background"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Text Color"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/cosmic-blue.json
+#: styles/deep-indigo-purple.json
+#: styles/galaxy-indigo.json
+#: styles/midnight-sky.json
+#: styles/moon-grey.json
+#: styles/orbit-black.json
+#: styles/starfield-black.json
+#: styles/twilight-navy.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/deep-indigo-purple.json
+msgctxt "Style variation name"
+msgid "Deep Indigo Purple"
+msgstr ""
+
+#: styles/galaxy-indigo.json
+msgctxt "Style variation name"
+msgid "Galaxy Indigo"
+msgstr ""
+
+#: styles/midnight-sky.json
+msgctxt "Style variation name"
+msgid "Midnight Sky"
+msgstr ""
+
+#: styles/moon-grey.json
+msgctxt "Style variation name"
+msgid "Moon Grey"
+msgstr ""
+
+#: styles/orbit-black.json
+msgctxt "Style variation name"
+msgid "Orbit Black"
+msgstr ""
+
+#: styles/starfield-black.json
+msgctxt "Style variation name"
+msgid "Starfield Black"
+msgstr ""
+
+#: styles/twilight-navy.json
+msgctxt "Style variation name"
+msgid "Twilight Navy"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Without Header Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Without Header Image"
+msgstr ""
